@@ -5,6 +5,12 @@
 
 This repository provides the official MATLAB implementation for the paper *"RTGD-MVC: Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering"*.  
 
+## 🎉 News & Updates
+
+We are thrilled to announce that our paper, *"RTGD-MVC: Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering"*, has been **accepted by ACM Multimedia 2025**. It has also been **recommended for an Oral Presentation**, a testament to its strong peer-review evaluation.
+
+-----
+
 **Key Features**:  
 🔹 Robust Tensor Learning with Graph Diffusion for Scalable Multi-view Graph Clustering.    
 🔹 One-click reproducible experiments with hyperparameter optimization  
